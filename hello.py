@@ -1,1 +1,1 @@
-print('Witaj pytonistko! Pracuj dalej, a osiagniesz duzo ...')
+print('Witaj pytonistko!')
