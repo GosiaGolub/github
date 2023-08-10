@@ -9,5 +9,4 @@ Based on a tutorial on You Tube"# github_local"
 ## Local dev
 
 Follow the steps:
-another update on github
-.....
+another update on the github branch
